@@ -1,0 +1,10 @@
+
+.hover {
+    display: inline-block;
+    transition: transform 0.2s;
+}
+
+.hover:hover {
+    transform: scale(1.1);
+    text-decoration: none;
+}
